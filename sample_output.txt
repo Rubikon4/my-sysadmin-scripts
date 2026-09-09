@@ -1,0 +1,5 @@
+Sep  9 16:31:31 sysadmin-host kernel: [    0.304273] acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+Sep  9 16:31:31 sysadmin-host kernel: [    0.786267] RAS: Correctable Errors collector initialized.
+Sep  9 16:31:31 sysadmin-host kernel: [    0.958432] GPT: Use GNU Parted to correct GPT errors.
+Sep  9 16:31:31 sysadmin-host kernel: [    3.537839] blk_update_request: I/O error, dev fd0, sector 0 op 0x0:(READ) flags 0x80700 phys_seg 1 prio class 0
+Sep  9 16:31:31 sysadmin-host kernel: [    3.540673] blk_update_request: I/O error, dev fd0, sector 0 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 0
